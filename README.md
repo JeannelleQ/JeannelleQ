@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python and SQL for data analysis
 
 - 📫 How to reach me
--   - LinkedIn: www.linkedin.com/in/jeannellequartey 
+    - LinkedIn: www.linkedin.com/in/jeannellequartey 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do Brazillian Jiujitsu, Sew, and am a keen cook 
 
